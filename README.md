@@ -1,12 +1,4 @@
 # jscs-jsdoc
-[![Gitter](https://img.shields.io/gitter/room/jscs-dev/node-jscs.svg)](https://gitter.im/jscs-dev/node-jscs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](https://img.shields.io/travis/jscs-dev/jscs-jsdoc.svg)](http://travis-ci.org/jscs-dev/jscs-jsdoc)
-[![Dependency Status](https://img.shields.io/david/jscs-dev/jscs-jsdoc.svg)](https://david-dm.org/jscs-dev/jscs-jsdoc)
-[![Coverage](https://img.shields.io/coveralls/jscs-dev/jscs-jsdoc.svg)](https://coveralls.io/r/jscs-dev/jscs-jsdoc)
-
-[![NPM version](https://img.shields.io/npm/v/jscs-jsdoc.svg)](https://www.npmjs.com/package/jscs-jsdoc)
-[![NPM downloads](https://img.shields.io/npm/dm/jscs-jsdoc.svg)](https://www.npmjs.com/package/jscs-jsdoc)
-[![MIT License](https://img.shields.io/npm/l/jscs-jsdoc.svg)](https://github.com/jscs-dev/jscs-jsdoc/blob/master/LICENSE)
 
 `jsdoc` plugin for [jscs](https://github.com/jscs-dev/node-jscs/). [Twitter](https://twitter.com/jscs_dev) | [Mailing List](https://groups.google.com/group/jscs-dev)
 
